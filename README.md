@@ -1,4 +1,4 @@
-# firework Chrome extension
+# Firework Chrome extension
 
 Thay màn hình new tab nhàm chán bằng màn hình pháo hoa trên Chrome emoji unicode: 1f386emoji unicode: 1f387emoji unicode: 2728
 ---------------------------------------
