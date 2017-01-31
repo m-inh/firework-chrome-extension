@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "FireWork",
+    "short_name": "FireWork",
+    "version": "1.0",
+    "description": "Replace new tab page with a firework screen.",
+    "icons": {
+        "16": "icon-16.png",
+        "128": "icon-128.png"
+    },
+    "background": {
+        "scripts": [
+            "firework.js"
+        ],
+        "persistent": false
+    },
+    "chrome_url_overrides": {
+        "newtab": "dashboard.html"
+    },
+    "offline_enabled": true,
+    "browser_action": {
+        "default_title": "FireWork"
+    }
+}
