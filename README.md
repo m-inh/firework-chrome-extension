@@ -9,4 +9,5 @@ Thay màn hình new tab nhàm chán bằng màn hình pháo hoa trên Chrome
 - B3: Bật "Developer mode"
 *Tích chọn Developer mode*
 - B4: Bấm chọn "Load uppacked extension" và trỏ tới thư mục chứa source code
+
 Have fun!! 
